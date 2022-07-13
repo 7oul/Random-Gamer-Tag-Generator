@@ -1,4 +1,10 @@
 # Random-Gamer-Tag-Generator
+
+UPDATE - V.0.1.1
+- I fixed an isse where strings weren't being taken from
+adj array 3 and noun array 3 
+
+
 Generates a random gamer tag 
 225 different gamer tags 
 
@@ -14,5 +20,8 @@ the 3 noun arrays ( It also selects a noun array randomly )
 Then the two random strings from the random arrays are concatenated to form a unique
 gamer tag stored in a variable which is then logged onto the console. 225 different combinations can be made with the
 available strings 
+
+
+
 
  
