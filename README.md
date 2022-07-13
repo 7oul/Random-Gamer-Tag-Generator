@@ -1,5 +1,6 @@
 # Random-Gamer-Tag-Generator
 Generates a random gamer tag 
+225 different gamer tags 
 
 This was a bit confusing to make lol.
 
